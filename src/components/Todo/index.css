@@ -1,0 +1,11 @@
+.Todos {
+  border: 1px solid gray;
+  padding: 20px;
+  margin: 10px 10px;
+}
+.content{
+  padding-right:10px;
+}
+.urgent{
+  color:red;
+}
